@@ -1,0 +1,5 @@
+API_TOKEN = '7773133908:AAGaS6RrpwkQ1Cyn5VIYSw7Q3Z23b4p4_-U'
+WEATHER_API_KEY = 'ee62f1b78d4793cd6112762ba6465105'
+WEATHER_API_URL = 'http://api.openweathermap.org/data/2.5/weather'
+
+
